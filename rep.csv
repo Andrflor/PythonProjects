@@ -1,0 +1,31 @@
+taille,poids,sexe,etude,type_etude,boursier,prof_mere,prof_pere,travail,classe,generaliste,specialiste,hospitalisation,automedication,maladie_genetique,aide,sante,tabac,alcool,drogue,sport,sommeil,qualite_sommeil,qualite_alim,budget_alim
+187,60,H,1,Ingénieur Informaticien,FALSE,Médecin Gériatre,Ingénieur,FALSE,1,1,4,1,TRUE,FALSE,,2,0,1,TRUE,TRUE,7,3,2,170
+179,75,H,1,Informatique pour la santé,TRUE,Retraitée,Retraité,FALSE,0,1,1,2,FALSE,FALSE,,4,1,5,TRUE,TRUE,7,3,3,200
+180,72,H,1,Ingénieur Informatique,TRUE,Infirmière,Conseiller Technique National (Sport),FALSE,0,4,4,2,TRUE,FALSE,,3,1,1,TRUE,TRUE,6,2,3,200
+180,85,H,1,Ignénieur Informaticien (Je suis),TRUE,Coiffeuse,Mecano,FALSE,-1,3.5,3.5,2,FALSE,FALSE,,4,1,1.5,TRUE,TRUE,6,3,2,300
+165,60,F,0,ISIS,TRUE,Prof de math,Technicien aéronautique,FALSE,0,3.5,3.5,2,TRUE,TRUE,4,4,0,1.5,FALSE,TRUE,6,2,4,60
+160,57,F,1,ingénieur,FALSE,cadre,orthophoniste ,FALSE,0,3.5,3.5,0,TRUE,FALSE,4,4,2,4,TRUE,TRUE,6,4,4,120
+160,67,F,1,Informatique,FALSE,Fonctionnaire,Fonctionnaire,FALSE,0,3.5,0,2,TRUE,FALSE,5,3,0,4,TRUE,TRUE,7,2,3,100
+160,52,F,1,école ingé informatique et santé,TRUE,Infirmière,Agriculteur exploitant,FALSE,0,3.5,3.5,2,TRUE,FALSE,5,4,0,4,TRUE,TRUE,8,4,4,70
+178,65,F,1,INGÉNIEUR,FALSE,CADRE FONCTION PUBLIQUE,COMMERCIAL BTP,FALSE,0,3.5,3.5,0,TRUE,FALSE,4,4,0,1.5,TRUE,TRUE,7,4,4,100
+173,62,H,1,"Aucune, je suis diplomé",FALSE,Employé France Télécom,Employé France Telecom,FALSE,0,3.5,3.5,2,TRUE,FALSE,5,4,0,1.5,TRUE,TRUE,8,3,4,500
+194,76,H,1,Chargé de projets ,FALSE,Secrétaire de direction,Redacteur en chef,FALSE,0,0,0,0,TRUE,FALSE,3,4,2,1.5,TRUE,TRUE,8,4,4,400
+173,63,H,0,ISIS,TRUE,Professeur au collège,Employé,FALSE,0,3.5,3.5,4,TRUE,TRUE,4,4,0,1.5,FALSE,TRUE,8,4,4,60
+183,63,H,1,isis,TRUE,Assistante rh,ouvrier,FALSE,0,0,0,2,TRUE,FALSE,4,3,2,4,TRUE,TRUE,7,3,4,100
+168,58,F,1,Management du sport ,TRUE,Secrétaire ,Cadre,FALSE,0,3.5,3.5,4,TRUE,FALSE,3,4,0,1.5,TRUE,TRUE,7,4,3,180
+171,50,F,0,DEES IMMO,FALSE,Fonctionnaire ,Entrepreneur ,TRUE,0,3.5,3.5,2,TRUE,TRUE,1,2,0,4,FALSE,TRUE,6,4,4,150
+175,81,H,1,Robotique,TRUE,Cadre,Ingenieur,FALSE,0,3.5,3.5,4,TRUE,FALSE,4,3,0,4,TRUE,TRUE,6,5,3,200
+183,60,H,1,isis,TRUE,hypnotherapeute (profession intermédiaire),sysadmin,FALSE,0,0,3.5,4,TRUE,FALSE,4,2,1,4,TRUE,TRUE,5.5,2,2,200
+188,65,H,0,Droit,FALSE,Retraitée,Entrepreneur,FALSE,0,0,0,2,FALSE,FALSE,4,3,0,4,TRUE,FALSE,4,4,2,250
+177,77,H,0,Ingénierie Robotique,FALSE,RH,Cadre supérieur,TRUE,0,3.5,3.5,2,TRUE,FALSE,4,3,0,0,FALSE,TRUE,3,5,3,150
+165,65,F,0,Psychologie,TRUE,Instite,Protesiste,FALSE,0,3.5,3.5,6,TRUE,FALSE,2,3,2,1.5,TRUE,TRUE,6,3,2,120
+160,59,F,-1,Aucune ,FALSE,Fonctionnaire,Fonctionnaire ,TRUE,0,0,0,4,TRUE,FALSE,5,5,0,4,FALSE,TRUE,5,3,3,150
+160,54,F,1,Ingénieur,TRUE,Secrétaire,Mécanicien,FALSE,0,3.5,3.5,2,TRUE,FALSE,3,5,0,4,TRUE,TRUE,8,4,4,160
+155,43,F,0,Biotechnologie ,TRUE,Hôtesse de caisse,Agent de sécurité,TRUE,0,9,3.5,4,TRUE,FALSE,2,3,0,0,TRUE,FALSE,8,3,3,70
+176,70,H,1,ingénieur,TRUE,assistante scolaire,gendarme,FALSE,0,0,0,2,TRUE,FALSE,3,3,2,4,TRUE,FALSE,7,5,2,80
+180,56,H,1,ISIS ,FALSE,Assistante sociale conseil régional ,Employé bureau d’étude Veritas,TRUE,0,3.5,3.5,2,TRUE,FALSE,4,3,2,1.5,TRUE,FALSE,6,4,4,400
+175,50,H,1,ingé systèmes embarqués,FALSE,ingénieure (cadre fonction publique),ingénieur (cadre fonction publique),FALSE,0,0,0,2,FALSE,FALSE,5,5,0,0,FALSE,FALSE,6,2,1,70
+170,58,H,0,Prépa intégrée ,FALSE,Technicienne biochimiste ,Dessinateur industriel,FALSE,0,3.5,0,0,TRUE,FALSE,5,5,1,1.5,TRUE,TRUE,7,4,3,100
+178,80,H,0,Staps,FALSE,Recruteuse dans une agence d'interim,Cadre commercial ,TRUE,1,3.5,3.5,2,FALSE,FALSE,4,5,0,1.5,TRUE,TRUE,8,4,4,150
+175,75,H,1,Multimédia / Web development ,FALSE,Assistante de direction,Chef d'équipe,FALSE,0,3.5,3.5,2,TRUE,TRUE,1,3,0.5,0,TRUE,TRUE,7,2,3,40
+173,55,F,0,Psychologie,TRUE,Gestionnaire charges,Informaticien,FALSE,0,3.5,3.5,2,TRUE,FALSE,3,2,0,0,TRUE,FALSE,8,3,3,150
