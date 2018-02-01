@@ -18,7 +18,7 @@ def init_args():
 
     if (tgtHost == None) and (tgtIP == None):
         print('[-] You must specify a target host or IP.')
-        exit(0)
+        exit(0)andrieu.florian
     return tgtHost, tgtPorts, tgtIP
 
 def format(string):
